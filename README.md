@@ -1,18 +1,22 @@
-Project Overview: 
+## PT ELEKTRIN Consignment Sales Information System Design
+
+## 📌 Project Overview:
 This project presents the system analysis and design of a consignment sales information system for PT ELEKTRIN, a manufacturing company that distributes electronic products through a consignment model. The system manages order processing, inventory control, consignment sales, returns (unsold and damaged goods), invoice generation, commission calculation, and monthly reporting.
 
-Diagrams Included:
+## Diagrams Included:
 
-1️⃣ Use Case Diagram
-
+# 1️⃣ Use Case Diagram
 Illustrates system interactions between:
 - Sales Department
 - Warehouse Department
 - Commissioner
 - Production Department
 - Manager
+  
+![Use Case Diagram](usecase.jpg)
 
-2️⃣ Sequence Diagram – Retur Konsinyasi
+
+# 2️⃣ Sequence Diagram – Retur Konsinyasi
 
 Describes the detailed return process including:
 - Commissioner submits return request
@@ -22,7 +26,10 @@ Describes the detailed return process including:
   - Unsold goods → Stock updated
   - Damaged goods → Sent to Production for inspection and status update
 
-3️⃣ Domain Model Class Diagram
+![Sequence Diagram](sequence.jpg)
+
+
+# 3️⃣ Domain Model Class Diagram
 
 Represents core system entities including:
 - Customer
@@ -36,13 +43,6 @@ Represents core system entities including:
 - Return
 - Damaged Goods
 
-## 🖼 Diagram Preview
-
-### Use Case Diagram
-![Use Case Diagram](usecase.jpg)
-
-### Sequence Diagram – Retur Konsinyasi
-![Sequence Diagram](sequence.jpg)
-
-### Domain Model Class Diagram
 ![Domain Model](domain.jpg)
+
+
