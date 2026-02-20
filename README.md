@@ -33,6 +33,6 @@ Represents core system entities including:
 - Damaged Goods
 
 📁 Files Included: 
-![Use Case Diagram](Use Case_PT Elektrin.png)
-![Sequence Diagram](Sequence Diagram_PT Elektrin.png)
-![Domain Model](Domain Class Diagram_PT Elektrin.png)
+![Use Case Diagram](Use Case_PT Elektrin.jpg)
+![Sequence Diagram](Sequence Diagram_PT Elektrin.jpg)
+![Domain Model](Domain Class Diagram_PT Elektrin.jpg)
