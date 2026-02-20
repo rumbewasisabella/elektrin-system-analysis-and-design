@@ -35,10 +35,10 @@ Represents core system entities including:
 ## 🖼 Diagram Preview
 
 ### Use Case Diagram
-![Use Case Diagram](Use Case_PT Elektrin.jpg)
+![Use Case Diagram](usecase.jpg)
 
 ### Sequence Diagram – Retur Konsinyasi
-![Sequence Diagram](Sequence Diagram_PT Elektrin.jpg)
+![Sequence Diagram](sequence.jpg)
 
 ### Domain Model Class Diagram
-![Domain Model](Domain Class Diagram_PT Elektrin.jpg)
+![Domain Model](domain.jpg)
