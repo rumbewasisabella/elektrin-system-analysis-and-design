@@ -5,7 +5,7 @@ This project presents the system analysis and design of a consignment sales info
 
 ## Diagrams Included:
 
-# 1️⃣ Use Case Diagram
+### 1️⃣ Use Case Diagram
 Illustrates system interactions between:
 - Sales Department
 - Warehouse Department
@@ -16,7 +16,7 @@ Illustrates system interactions between:
 ![Use Case Diagram](usecase.jpg)
 
 
-# 2️⃣ Sequence Diagram – Retur Konsinyasi
+### 2️⃣ Sequence Diagram – Retur Konsinyasi
 
 Describes the detailed return process including:
 - Commissioner submits return request
@@ -29,7 +29,7 @@ Describes the detailed return process including:
 ![Sequence Diagram](sequence.jpg)
 
 
-# 3️⃣ Domain Model Class Diagram
+### 3️⃣ Domain Model Class Diagram
 
 Represents core system entities including:
 - Customer
