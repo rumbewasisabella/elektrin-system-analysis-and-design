@@ -32,7 +32,7 @@ Represents core system entities including:
 - Return
 - Damaged Goods
 
-📁 Files Included
-Use Case_PT Elektrin.png
-Sequence Diagram_PT Elektrin.png
-Domain Class Diagram_PT Elektrin.png
+📁 Files Included: 
+![Use Case Diagram](Use Case_PT Elektrin.png)
+![Sequence Diagram](Sequence Diagram_PT Elektrin.png)
+![Domain Model](Domain Class Diagram_PT Elektrin.png)
