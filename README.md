@@ -32,7 +32,13 @@ Represents core system entities including:
 - Return
 - Damaged Goods
 
-📁 Files Included: 
+## 🖼 Diagram Preview
+
+### Use Case Diagram
 ![Use Case Diagram](Use Case_PT Elektrin.jpg)
+
+### Sequence Diagram – Retur Konsinyasi
 ![Sequence Diagram](Sequence Diagram_PT Elektrin.jpg)
+
+### Domain Model Class Diagram
 ![Domain Model](Domain Class Diagram_PT Elektrin.jpg)
